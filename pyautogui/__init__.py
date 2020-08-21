@@ -987,7 +987,7 @@ def click(
 
 @_genericPyAutoGUIChecks
 def leftClick(x=None, y=None, interval=0.0, duration=0.0, tween=linear, logScreenshot=None, _pause=True):
-    """Performs a right mouse button click.
+    """Performs a left mouse button click.
 
     This is a wrapper function for click('right', x, y).
 
